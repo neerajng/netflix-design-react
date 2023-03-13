@@ -1,0 +1,37 @@
+.netflix-footer {
+    background-color: #141414;
+    color: #757575;
+    font-size: 14px;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .netflix-footer p {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
+  
+  .netflix-footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .netflix-footer li {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  
+  .netflix-footer li:last-child {
+    margin-right: 0;
+  }
+  
+  .netflix-footer a {
+    color: #757575;
+    text-decoration: none;
+  }
+  
+  .netflix-footer a:hover {
+    text-decoration: underline;
+  }
+  
